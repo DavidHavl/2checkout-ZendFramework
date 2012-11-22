@@ -1,4 +1,5 @@
 2checkout-ZendFramework
 =======================
 
-ZF Service Class for 2checkout payment gateway
+Service Class for 2checkout payment gateway using Zend Framework 1.12
+
